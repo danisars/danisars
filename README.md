@@ -1,4 +1,4 @@
-👋 Hi, My name is Danis. I am a full-stack developer focused on creating functional web pages that are comfortable for all devices and browsers. I am interested in modern technologies and follow the newest trends in the industry. I never stop learning to keep my competency at a high level.
+### Hi, My name is Danis. I am a full-stack developer focused on creating functional web pages that are comfortable for all devices and browsers. I am interested in modern technologies and follow the newest trends in the industry. I never stop learning to keep my competency at a high level.
 
 ### Frontend skills:
 - ✔ JavaScript, jQuery
