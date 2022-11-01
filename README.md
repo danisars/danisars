@@ -5,11 +5,11 @@
 - ✔ HTML5, CSS3, TailWind CSS, Bootstrap, Three.js, WebGL
 - ✔ React.js, Redux, Saga
 - ✔ AngularJS
-- ✔ Vue.js, Nuxt.js, Vuex, Vuetify
+- ✔ Vue.js, Nuxt.js, Vuex, Vuetify, Vue Router
 - ✔ Webpack
 
 ### Backend Skills:
 - ✔ PHP, Laravel
 - ✔ Typescript, Node.js, Express.js
 - ✔ ASP.NET, .NET, C#
-- ✔ GraphQL, Firebase
+- ✔ MySQL, MongoDB, PostgreSQL, GraphQL, Firebase
