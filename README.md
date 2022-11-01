@@ -2,15 +2,14 @@
 
 ### Frontend skills:
 - ✔ JavaScript, jQuery
-- ✔ HTML5, CSS3, TailWind, Bootstrap, Three.js, WebGL
+- ✔ HTML5, CSS3, TailWind CSS, Bootstrap, Three.js, WebGL
 - ✔ React.js, Redux, Saga
 - ✔ AngularJS
-- ✔ Vue.js, Nuxt.js
+- ✔ Vue.js, Nuxt.js, Vuex, Vuetify
 - ✔ Webpack
 
 ### Backend Skills:
-- ✔ PHP
-- ✔ Node.js, Express.js
-- ✔ ASP.NET, .NET
-- ✔ Python, Django
+- ✔ PHP, Laravel
+- ✔ Typescript, Node.js, Express.js
+- ✔ ASP.NET, .NET, C#
 - ✔ GraphQL, Firebase
